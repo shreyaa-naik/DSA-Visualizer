@@ -110,7 +110,8 @@ dsa_visualizer.exe
 
 ## 👨‍💻 Author
 
-**Shreyaa Naik**
+**Shreya**
+
 📧 \[[shreyaa4950@gmail.com](mailto:shreyaa4950@gmail.com)]
 🌐 [GitHub Profile](https://github.com/shreyaa-naik)
 
